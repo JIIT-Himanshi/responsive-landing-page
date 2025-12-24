@@ -20,6 +20,11 @@ I created this project to **learn and practice responsiveness** and mobile navig
 
 ---
 
+## 🚀 Live Link
+🔗 https://jiit-himanshi.github.io/responsive-landing-page/
+
+---
+
 ## 📌 Note
 This is a **learning project** made for practice only.  
 No backend or real functionality is included.
